@@ -2,7 +2,7 @@
 
 ## Description
 
-Command line tool to search pattern in files according to a path.
+Command line tool to search patterns in files according to a path.
 
 ## Requirements
 
