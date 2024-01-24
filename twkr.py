@@ -130,8 +130,5 @@ def file_rec(path=".", tracker_l=[os.listdir(".")], cur_depth=0, depth="max", rt
 
         return rtn_l2
 
-x = advs_sub(["ouiii", "non"], ["ui", "ee", "ii"])
-
-print(x)
 
 
